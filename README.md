@@ -51,30 +51,29 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkorpionOP&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkorpionOPe&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkorpionOP&layout=compact&theme=radical" height="140" />
 </p>
 
 ---
 
 ### 💼 Featured Projects
 
-- 🔗 [**Link Shortener + Analytics**](https://github.com/yourusername/link-shortener) – Create and track short links with full Firebase auth
-- 📊 [**Dashboard UI with Recharts**](https://github.com/yourusername/url-analytics) – Real-time analytics dashboard built with React & MongoDB
-- 🔐 [**Auth Boilerplate**](https://github.com/yourusername/auth-boilerplate) – Plug-and-play auth for React apps with routing
+- 🔗 [**Link Shortener + Analytics**](https://github.com/SkorpionOP/link-shortener) – Create and track short links with full Firebase auth
+- 📊 [**College ERP System**](https://github.com/yourusername/url-analytics) – Fully functional College managment system
 
 ---
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:kirankumar82054@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kiran-kumar-palle-b90836360/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SkorpionOP"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
