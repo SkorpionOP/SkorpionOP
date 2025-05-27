@@ -85,7 +85,7 @@ DevOps & Deployment   ██████████░░░░░░░░░�
 <tr>
 <td width="33%" align="center">
 
-### 🔗 Smart Link Shortener
+### 🔗 Smart Link Shortener(Shrinkoo)
 <img src="https://github.com/SkorpionOP/link-shortener/raw/main/preview.png" width="200" alt="Link Shortener" onerror="this.src='https://via.placeholder.com/200x120/00d9ff/ffffff?text=Link+Shortener'"/>
 
 **Revolutionary URL Management**
@@ -96,7 +96,7 @@ DevOps & Deployment   ██████████░░░░░░░░░�
 
 `React` `Node.js` `MongoDB` `Firebase`
 
-[🌐 Demo](https://github.com/SkorpionOP/link-shortener) • [💻 Code](https://github.com/SkorpionOP/link-shortener)
+[🌐 Demo](link-shrinker-frontend.vercel.app) • [💻 Code](https://github.com/SkorpionOP/link-shortener-frontend)
 
 </td>
 <td width="33%" align="center">
@@ -112,7 +112,7 @@ DevOps & Deployment   ██████████░░░░░░░░░�
 
 `PHP` `MySQL` `Bootstrap` `JavaScript`
 
-[🌐 Demo](#) • [💻 Code](https://github.com/SkorpionOP)
+[🌐 Demo](#) • [💻 Code](https://github.com/SkorpionOP/college-erp)
 
 </td>
 <td width="33%" align="center">
