@@ -96,7 +96,7 @@ DevOps & Deployment   ██████████░░░░░░░░░�
 
 `React` `Node.js` `MongoDB` `Firebase`
 
-[🌐 Demo](link-shrinker-frontend.vercel.app) • [💻 Code](https://github.com/SkorpionOP/link-shortener-frontend)
+[🌐 Demo](link-shrinker-frontend.vercel.app) • [💻 Code](https://github.com/SkorpionOP/link-shrinker-frontend)
 
 </td>
 <td width="33%" align="center">
