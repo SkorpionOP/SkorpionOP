@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Welcome to Kiran's Code Galaxy
+# 🌌 Hi, I'm Kiran
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=fff&animation=twinkling"/>
 
