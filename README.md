@@ -56,6 +56,9 @@ class Developer:
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,cpp,php,express,mongodb,firebase,html,css,tailwind,git,vscode,mysql,postman&theme=dark" />
 
 ### 🚀 Specialized Skills
+
+<div align="center">
+
 ```javascript
 const expertise = {
     frontend: {
@@ -78,6 +81,8 @@ const expertise = {
 
 console.log('Ready to build intelligent applications! 🤖');
 ```
+
+</div>
 
 </div>
 
@@ -119,7 +124,7 @@ console.log('Ready to build intelligent applications! 🤖');
 
 `React` `Express.js` `Google Gemini API` `Tailwind CSS` `Framer Motion`
 
-[💻 Code](https://github.com/SkorpionOP/Cipher-and-Phantom) • [🌐 Demo](https://cipher-and-phantom.vercel.app/)
+[💻 Code](https://github.com/SkorpionOP/Cipher-and-Phantom) • [🌐 Demo](#)
 
 </td>
 <td width="33%" align="center">
@@ -165,11 +170,13 @@ console.log('Ready to build intelligent applications! 🤖');
 
 ---
 
-## 🎯 Current Focus & Roadmap 2025
+## 🎯 Current Focus & Roadmap 2024
 
 <div align="center">
 
 <img align="right" src="https://github.com/SkorpionOP/SkorpionOP/raw/main/assets/coding.gif" width="200" onerror="this.src='https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif'"/>
+
+<div align="left" style="max-width: 500px;">
 
 ```yaml
 🔥 Active Projects:
@@ -201,6 +208,8 @@ console.log('Ready to build intelligent applications! 🤖');
 
 </div>
 
+</div>
+
 ---
 
 ## 🏆 Achievements & Recognition
@@ -224,6 +233,8 @@ console.log('Ready to build intelligent applications! 🤖');
 <div align="center">
 
 ### 🌟 My Unique Approach
+
+<div align="center">
 
 ```javascript
 class UniqueValue {
@@ -251,6 +262,8 @@ class UniqueValue {
 const developer = new UniqueValue();
 console.log(developer.myMission());
 ```
+
+</div>
 
 </div>
 
